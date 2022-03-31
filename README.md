@@ -6,7 +6,7 @@ Submitted by: David Alonge
 
 Time spent: 22 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/vigorous-tungsten-toad?path=style.css%3A1%3A0
 
 ## Required Functionality
 
@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-<img src = "http://g.recordit.co/bJiWoBN1ev.gif" alt = "gif 1" width = 600px><br>
+<img src = "http://g.recordit.co/bJiWoBN1ev.gif" alt = "gif 1" width = 600px><br><br>
 <img src = "http://g.recordit.co/BJrCD5dqbJ.gif" alt ="gif 2" width = 600px><br>
 
 ## Reflection Questions
