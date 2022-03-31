@@ -41,9 +41,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-<a href="https://www.w3schools.com"></a>
-[x] https://www.youtube.com/watch?v=US6gQ0YZK9E
-[x] https://www.w3schools.com/html/html_images.asp
+[x] https://www.youtube.com/watch?v=US6gQ0YZK9E <br>
+[x] https://www.w3schools.com/html/html_images.asp <br>
 [x] John Mansilla (my friend and coworker)
 
 
