@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Hello!</title>
+    
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+        <h1>Light and Sound Memory Game</h1>
+
+          <p>
+            Welcome to the light and sound memory game, press start to begin
+            <button id="startBtn" onclick="startGame()">
+              Start
+            </button>
+            <button id="stopBtn" class="hidden" onclick="stopGame()">
+              Stop
+            </button>
+            
+            <div id="gameButtonArea" class="flex">
+              <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()" ><img id="image1" src= "https://cdn.glitch.global/cff9533a-8ba1-4985-85df-f810801ba862/1.jfif?v=1648625132313" width = "100%" /></button>
+              <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"><img id="image2" src= "https://cdn.glitch.global/cff9533a-8ba1-4985-85df-f810801ba862/2.jfif?v=1648625137624"  width = "100%" /></button>
+              <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"><img id="image3" src= "https://cdn.glitch.global/cff9533a-8ba1-4985-85df-f810801ba862/3.jfif?v=1648625142181"  width = "100%" /></button>
+              <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"><img id="image4" src= "https://cdn.glitch.global/cff9533a-8ba1-4985-85df-f810801ba862/4.jfif?v=1648625146975"  width = "100%" /></button>
+              <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"><img id="image5" src= "https://cdn.glitch.global/cff9533a-8ba1-4985-85df-f810801ba862/5.jfif?v=1648626143654"  width = "100%" /></button>
+            </div>
+          </p>
+      
+  
+  </body>
+</html>
