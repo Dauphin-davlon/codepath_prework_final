@@ -4,7 +4,7 @@
 
 Submitted by: David Alonge
 
-Time spent: 22 hours spent in total
+Time spent: 25 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/vigorous-tungsten-toad?path=style.css%3A1%3A0
 
