@@ -35,8 +35,7 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-<img src = "http://g.recordit.co/bJiWoBN1ev.gif" alt = "gif 1" width = 600px><br><br>
-<img src = "http://g.recordit.co/h1NwYkRkoE.gif" alt = "gif 1" width = 600px><br><br>
+
 
 ![gif2]<img src = "http://g.recordit.co/BJrCD5dqbJ.gif" alt ="gif 2" width = 600px><br>
 
