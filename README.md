@@ -1,30 +1,81 @@
-# Hello website!
+# Pre-work - Light and Sound Memory Game
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+"Light And Sound Memory Game" is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-## What's in this project?
+Submitted by: David Alonge
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+Time spent: 22 hours spent in total
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+Link to project: (insert your link here, should start with https://glitch.com...)
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+## Required Functionality
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
+The following **required** functionality is complete:
 
-Open each file and check out the comments (in gray) for more info.
+* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [ ] Game buttons each light up and play a sound when clicked. 
+* [ ] Computer plays back sequence of clues including sound and visual cue for each button
+* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [ ] User wins the game after guessing a complete pattern
+* [ ] User loses the game after an incorrect guess
 
-## Try this next 🏗️
+The following **optional** features are implemented:
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [ ] More than 4 functional game buttons
+* [ ] Playback speeds up on each turn
+* [ ] Computer picks a different pattern each time the game is played
+* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+* [ ] Game button appearance change goes beyond color (e.g. add an image)
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+## Video Walkthrough (GIF)
 
-## You built this with Glitch!
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![]http://g.recordit.co/bJiWoBN1ev.gif
+![]http://g.recordit.co/BJrCD5dqbJ.gif
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+## Reflection Questions
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+https://www.youtube.com/watch?v=US6gQ0YZK9E
+https://www.w3schools.com/html/html_images.asp
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+While working on the prework project, I was exposed to many software and applications I had never used before. To start with, I used GitHub and glitch for the first time. In addition, the project got me interested in front-end development. The prework was a perfect project to introduce me to this. The steps and resources provided were really helpful. However, while submitting the project, I got to some stages where I wasn’t getting the result I wanted.
+One of the challenges I faced was when I had to create a repository, commit and push using GitHub desktop. After successfully installing and logging in to my GitHub desktop account following the video guidance provided, I got confused about how to link the code in Glitch to Github. Since the resources so far were very detailed, I became too reliant on them. The video assumed that we downloaded the prework code from Glitch to our desktop. Downloading the prework code from Glitch to my desktop was a challenge. The format is downloaded in .tgz, and windows software doesn’t have a built-in application to handle this file format. I had to research this file format and the method to unzip this file.
+Another challenge I faced was in creating a GIF showing the features I implemented. The resources provided were perfectly suitable for a MacBook user. However, the steps weren’t the same for window users like me. QuickTime player didn’t work. I tried using other steps, like screen recording, and software like shortcut app, but they came out blurry. I ended up using RecordIt after watching YouTube videos on how it works on the Windows system.
+Finally, adding optional features poses challenges to me. This is because I have to fully understand the code to make changes to implement the additional features. I read about the code, used w3school to get more information about the syntax we used. Also, I explored and tried making small changes to parts of the code. Due to the relationship between HTML, CSS, and JavaScript, the changes caused errors but correcting them gave me more practice in understanding the code better.
+
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+Before the prework project, I began learning HTML. I understand that HTML is used to create the website. Though I had not started exploring CSS, I knew that CSS is used for graphics and designs. However, I wasn’t aware of the role of JavaScript. The relationship between these languages was another thing that fascinated me. The way elements in HTML connect with the element in CSS and JavaScript using ID. This fascination caused me to have some questions about web development.
+My question is about JavaScript and its similarities with JAVA. I realized that the part of the project we did with JavaScript was also possible with JAVA. Also, the syntaxes used were similar. It got me questioning why we need JAVA if JavaScript can perform these functions, while also connecting to the web design (HTML and CSS).
+The other question I have about web development is how it connects to the back end. I understand that most times, data from the users still need to be stored in a database. I have learned how relational database works (MySQL). However, I am not comfortable with how the database is linked to the front end (HTML, CSS) to create a working environment.
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+[YOUR ANSWER HERE]
+
+
+
+## Interview Recording URL Link
+
+https://youtu.be/p9C9fjRCUlA
+
+
+## License
+
+    Copyright [David Alonge]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
