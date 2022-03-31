@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![x]http://g.recordit.co/bJiWoBN1ev.gif
+<img src = "http://g.recordit.co/bJiWoBN1ev.gif"><br>
 ![x]http://g.recordit.co/BJrCD5dqbJ.gif
 
 ## Reflection Questions
