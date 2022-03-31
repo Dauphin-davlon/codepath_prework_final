@@ -36,10 +36,11 @@ The following **optional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 <img src = "http://g.recordit.co/bJiWoBN1ev.gif" alt = "gif 1" width = 600px><br><br>
-<img src = "http://g.recordit.co/GcixGqtOI6.gif" alt = "gif 1" width = 600px><br><br>
-<img src = "http://g.recordit.co/bxqrYp9CCF.gif" alt = "gif 1" width = 600px><br><br>
-<img src = "http://g.recordit.co/h1NwYkRkoE.gif" alt = "gif 2" width = 600px><br><br>
-<img src = "http://g.recordit.co/Fn2rA0zeFw.gif" alt = "gif 2" width = 600px><br><br>
+<img src = "http://g.recordit.co/f8yahFw31x.gif" alt = "gif 2" width = 600px><br><br>
+<img src = "http://g.recordit.co/GcixGqtOI6.gif" alt = "gif 3" width = 600px><br><br>
+<img src = "http://g.recordit.co/bxqrYp9CCF.gif" alt = "gif 4" width = 600px><br><br>
+<img src = "http://g.recordit.co/h1NwYkRkoE.gif" alt = "gif 5" width = 600px><br><br>
+<img src = "http://g.recordit.co/Fn2rA0zeFw.gif" alt = "gif 6" width = 600px><br><br>
 
 ![gif2]<img src = "http://g.recordit.co/BJrCD5dqbJ.gif" alt ="gif 2" width = 600px><br>
 
